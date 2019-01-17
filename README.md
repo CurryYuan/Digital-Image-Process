@@ -1,2 +1,2 @@
 # Digital-Image-Process
-homework
+SYSU Digital Image Process homework
